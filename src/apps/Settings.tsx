@@ -1,5 +1,5 @@
 import type { OsApi } from '../os/types';
-import { ACCENTS, WALLOPERS } from '../os/types';
+import { ACCENTS, WALLPAPERS } from '../os/types';
 
 export default function Settings({ os }: { os: OsApi }) {
   return (
