@@ -1,6 +1,6 @@
 import { useCallback, useEffect, useRef, useState } from 'react';
 import type { OsApi, Wallpaper, WindowState } from './os/types';
-import { WALLOPERS } from './os/types';
+import { WALLPAPERS } from './os/types';
 import { APPS, getApp } from './os/registry';
 import Window from './components/Window';
 import Taskbar from './components/Taskbar';
