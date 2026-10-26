@@ -155,30 +155,6 @@ counter. Theme + notes are persisted to `localStorage`, so your desktop looks th
 
 ---
 
-## 🗒️ Devlogs
-
-```
-| #   | Log                                              | What happened                                             |
-| --- | ------------------------------------------------ | --------------------------------------------------------- |
-| 1   | [Devlog 1](./devlogs/01-first-windows.md)        | Getting windows to drag without fighting the event system |
-| 2   | [Devlog 2](./devlogs/02-taskbar-and-apps.md)     | Taskbar, Start menu, and the first three apps             |
-| 3   | [Devlog 3](./devlogs/03-terminal-and-theming.md) | The shell, `open <app>`, wallpapers and Stargazer         |
-```
-
----
-
-## 🔮 Roadmap → WebOS 2
-
-- [ ] Snap windows to screen edges / tiling
-- [ ] Window shadows & blur intensity as a setting
-- [ ] A music player app with Web Audio visualiser
-- [ ] Right-click desktop context menu
-- [ ] Multiple workspaces (space switching)
-- [ ] Notifications & toast centre
-- [ ] A real file system in `localStorage`
-
----
-
 ## 🙏 Credits
 
 Built for the **[Stardance](https://stardance.hackclub.com/) WebOS 1** mission.
